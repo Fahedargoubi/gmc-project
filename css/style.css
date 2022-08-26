@@ -1,0 +1,44 @@
+.container{
+  margin: auto;
+  margin-top: 20px;
+  border: thick solid black;
+  background-color:lightblue;
+}
+.navbar{
+  background-color: lightskyblue;
+}
+.container-fluid h2{
+  font-family: 'Pacifico';
+  color: black;
+  font-size: 50pt;
+}
+.col-md-, .col-lg-4{
+  margin-bottom: 20px;
+}
+.sty{
+  font-size: 20px;
+  color: black;
+}
+.num{
+  width: 80px;
+  height: 30px;
+  border: thick solid black;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 5px;
+}
+.uk-border-circle{
+  width: 100px ;
+  height: 100px ;
+}
+.fa-cart-arrow-down{
+  color: red;
+  font-size: 50px;
+  padding-left: 20px;
+}
+body{
+  background-image:url(../img/simple-white-brick-wall-background_23-2148238934.jpg);
+  background-attachment:fixed ;
+  background-size: 100%;
+  font-family: 'Festive';
+}
